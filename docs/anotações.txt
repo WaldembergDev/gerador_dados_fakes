@@ -1,0 +1,8 @@
+- Criar um modulo fake_data que tenha as seguintes funções:
+    - Criar uma função que receba uma opção e retorne um valor fake - ok
+    - Criar uma função que receba um endereço gerado pela biblioteca fake e retorne logradouro, bairro, cidade, cep e uf - ok
+    - Gerar uma função que receba a quantidade de dados linhas e uma lista de tipos de dados fakes desejado e gere um arquivo csv - ok
+
+- Gerar uma interface para interação com o sistema utilizando o streamlit
+    - O usuário deve poder selecionar os dados que deseja gerar fake
+    - O usuário deve selecionar 
